@@ -1,0 +1,15 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    bson (4.15.0)
+    mongo (2.19.1)
+      bson (>= 4.14.1, < 5.0.0)
+
+PLATFORMS
+  arm64-darwin-22
+
+DEPENDENCIES
+  mongo
+
+BUNDLED WITH
+   2.4.10
